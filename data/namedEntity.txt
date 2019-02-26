@@ -1,0 +1,259 @@
+Type	Category
+axe	weapon
+sword	weapon
+aroowhead	weapon
+battle ax	weapon
+arrow	weapon
+chariot fitting	weapon
+point	weapon
+bow	weapon
+mace	weapon
+dagger	weapon
+projectile	weapon
+shield	weapon
+sabre	weapon
+helmet	weapon
+arrowhead	weapon
+spear	weapon
+military standard	weapon
+vessel	vessel	
+pottery	vessel
+coffee pot	vessel
+rhyton	vessel
+unguentarium	vessel	
+chalice	vessel
+urn	vessel
+teapot	vessel
+surma-dani	vessel
+surma dani	vessel
+soorma dani	vessel
+skyphos	vessel
+ware	vessel
+cosmetic	vessel
+pitcher	vessel
+lamp	vessel
+kettle	vessel
+jar	vessel
+cup	vessel
+beaker	vessel
+jug	vessel
+flaggon	vessel
+bottle	vessel
+flask	vessel
+bowl	vessel
+cup	vessel
+vase	vessel
+pitcher	vessel
+statue	statue
+bust	statue
+idol	statue
+figure	statue
+engraving	statue	
+bust	statue
+head fragment	statue
+statuette	statue
+stone carving	statue
+statuete	statue
+figurine	statue
+plaque	statue	
+shabti	statue
+jewellery	jewellery
+ring	jewellery
+band	jewellery
+bangle	jewellery
+pendent	jewellery
+necklace	jewellery
+stone head	jewellery
+glass fish	jewellery
+ear plug	jewellery
+disc	jewellery
+disk	jewellery
+inlay	jewellery
+ornament	jewellery
+medallion	jewellery
+bead	jewellery
+earring	jewellery
+earing	jewellery
+amulet	jewellery
+scarab	jewellery
+scrab	jewellery
+pendant	jewellery
+seal	jewellery
+signet	jewellery
+bracelet	jewellery
+text	text
+tablet	text
+inscription	text
+writing	text
+graffiti	text
+inscribed	text
+book	text
+manuscript	text
+foundation cone	text
+hieroglyphics	text
+clothing	clothing
+brooch	clothing
+broach	clothing
+pin	clothing
+sock	clothing
+fibula	clothing
+shoe	clothing
+gilt mount	clothing
+cloth	clothing
+shoe	clothing
+buckle	clothing
+button	clothing
+belt	clothing
+household	household
+smoking pipe	household
+brick	household
+strapend household
+strap end	household
+fire striker	household
+headrest	household
+furniture	household
+key	household
+dice	household
+altar	household
+spoon	household
+cigarette holder	household
+gaming	household
+nail	household
+box	household
+mosaic	household
+mirror	household
+triptych	household
+coin	coin
+money	coin
+denarius	coin
+stater	coin
+follis	coin
+sceat	coin
+sceatta	coin
+religious	religious
+cross	religious
+crucifix	religious
+qoran	religious
+quran	religious
+deity	religious
+sekhmet	religious
+sakhmet	religious
+sakhet	religious
+baptism	religious
+votive	religious
+koran	religious
+holy	religious
+orthodox	religious
+buddha	religious
+hindu	religious
+tool	tool
+scale	tool
+razor	tool
+spur	tool
+sickle	tool
+awl	tool
+quern	tool
+walking stick	tool
+adze	tool
+stamp	tool
+whistle	tool
+pestle	tool
+comb	tool
+mortar	tool
+hook	tool
+hammer	tool
+knife	tool
+chisel	tool
+needle	tool
+lithic	tool
+obsidian	tool
+chisle	tool
+spindle	tool
+weight	tool
+medical	tool
+celt	celt
+seltic	celt
+scythian	central asia
+sythian	central asia
+egytpian	egyptian
+egypt	egyptian
+america	american
+columbian	american
+maya	american
+aztec	american
+native american	american
+pre columbian	american
+mexico	american
+pre-columbian	american
+indian	indian
+islamic	islamic
+yemen	islamic
+ottoman	islamic
+afghan	central asia
+central asia	central asia
+khanate	islamic
+arabic	near east
+koran	islamic
+andalus	islamic
+yamani	near east
+yemani	near east
+qajar	islamic
+quran	islamic
+khazar	islamic
+sulimani	islamic
+buddhist	buddhist
+bamiyan	buddhist
+roman	roman
+rome	roman
+greek	greek
+cypriot	greek
+athena	greek
+greco	greek
+mycenaea	greek
+nmacedonia	greek
+russian	russian
+russiam	russian
+indus	indus
+indo	indus
+gandhara	indus
+pre-historic	pre-historic
+neolithic	pre-historic
+pre historic	pre-historic
+stone age	pre-historic
+mesolithic	pre-historic
+chalcolithic	pre-historic
+paleolithic	pre-historic
+palaeolithic	pre-historic
+near east	near east
+persian	near east
+bactrian	central asia
+judaea	near east
+holy land	near east
+phoenician	near east
+mesopotamia	near east
+middle east	near east
+israel	near east
+canaanite	near east
+crusader	near east
+egyptian	egyptian
+pharao	egyptian
+ptolemaic	egyptian
+viking	viking
+saxon	viking
+norse	viking
+nordic	viking
+china	chinese
+chinese	chinese
+renaissance	renaissance
+baroque	renaissance
+italian	renaissance
+japan	japanese
+japanese	japanese
+khazar	turkish
+kazar	turkish
+turkish	turkish
+
+
+
+
+             
