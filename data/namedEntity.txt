@@ -1,259 +1,1654 @@
-Type	Category
-axe	weapon
-sword	weapon
-aroowhead	weapon
-battle ax	weapon
-arrow	weapon
-chariot fitting	weapon
-point	weapon
-bow	weapon
-mace	weapon
-dagger	weapon
-projectile	weapon
-shield	weapon
-sabre	weapon
-helmet	weapon
-arrowhead	weapon
-spear	weapon
-military standard	weapon
-vessel	vessel	
-pottery	vessel
-coffee pot	vessel
-rhyton	vessel
-unguentarium	vessel	
-chalice	vessel
-urn	vessel
-teapot	vessel
-surma-dani	vessel
-surma dani	vessel
-soorma dani	vessel
-skyphos	vessel
-ware	vessel
-cosmetic	vessel
-pitcher	vessel
-lamp	vessel
-kettle	vessel
-jar	vessel
-cup	vessel
-beaker	vessel
-jug	vessel
-flaggon	vessel
-bottle	vessel
-flask	vessel
-bowl	vessel
-cup	vessel
-vase	vessel
-pitcher	vessel
-statue	statue
-bust	statue
-idol	statue
-figure	statue
-engraving	statue	
-bust	statue
-head fragment	statue
-statuette	statue
-stone carving	statue
-statuete	statue
-figurine	statue
-plaque	statue	
-shabti	statue
-jewellery	jewellery
-ring	jewellery
-band	jewellery
-bangle	jewellery
-pendent	jewellery
-necklace	jewellery
-stone head	jewellery
-glass fish	jewellery
-ear plug	jewellery
-disc	jewellery
-disk	jewellery
-inlay	jewellery
-ornament	jewellery
-medallion	jewellery
-bead	jewellery
-earring	jewellery
-earing	jewellery
-amulet	jewellery
-scarab	jewellery
-scrab	jewellery
-pendant	jewellery
-seal	jewellery
-signet	jewellery
-bracelet	jewellery
-text	text
-tablet	text
-inscription	text
-writing	text
-graffiti	text
-inscribed	text
-book	text
-manuscript	text
-foundation cone	text
-hieroglyphics	text
-clothing	clothing
-brooch	clothing
-broach	clothing
-pin	clothing
-sock	clothing
-fibula	clothing
-shoe	clothing
-gilt mount	clothing
-cloth	clothing
-shoe	clothing
-buckle	clothing
-button	clothing
-belt	clothing
-household	household
-smoking pipe	household
-brick	household
-strapend household
-strap end	household
-fire striker	household
-headrest	household
-furniture	household
-key	household
-dice	household
-altar	household
-spoon	household
-cigarette holder	household
-gaming	household
-nail	household
-box	household
-mosaic	household
-mirror	household
-triptych	household
-coin	coin
-money	coin
-denarius	coin
-stater	coin
-follis	coin
-sceat	coin
-sceatta	coin
-religious	religious
-cross	religious
-crucifix	religious
-qoran	religious
-quran	religious
-deity	religious
-sekhmet	religious
-sakhmet	religious
-sakhet	religious
-baptism	religious
-votive	religious
-koran	religious
-holy	religious
-orthodox	religious
-buddha	religious
-hindu	religious
-tool	tool
-scale	tool
-razor	tool
-spur	tool
-sickle	tool
-awl	tool
-quern	tool
-walking stick	tool
-adze	tool
-stamp	tool
-whistle	tool
-pestle	tool
-comb	tool
-mortar	tool
-hook	tool
-hammer	tool
-knife	tool
-chisel	tool
-needle	tool
-lithic	tool
-obsidian	tool
-chisle	tool
-spindle	tool
-weight	tool
-medical	tool
-celt	celt
-seltic	celt
-scythian	central asia
-sythian	central asia
-egytpian	egyptian
-egypt	egyptian
-america	american
-columbian	american
-maya	american
-aztec	american
-native american	american
-pre columbian	american
-mexico	american
-pre-columbian	american
-indian	indian
-islamic	islamic
-yemen	islamic
-ottoman	islamic
-afghan	central asia
-central asia	central asia
-khanate	islamic
-arabic	near east
-koran	islamic
-andalus	islamic
-yamani	near east
-yemani	near east
-qajar	islamic
-quran	islamic
-khazar	islamic
-sulimani	islamic
-buddhist	buddhist
-bamiyan	buddhist
-roman	roman
-rome	roman
-greek	greek
-cypriot	greek
-athena	greek
-greco	greek
-mycenaea	greek
-nmacedonia	greek
-russian	russian
-russiam	russian
-indus	indus
-indo	indus
-gandhara	indus
-pre-historic	pre-historic
-neolithic	pre-historic
-pre historic	pre-historic
-stone age	pre-historic
-mesolithic	pre-historic
-chalcolithic	pre-historic
-paleolithic	pre-historic
-palaeolithic	pre-historic
-near east	near east
-persian	near east
-bactrian	central asia
-judaea	near east
-holy land	near east
-phoenician	near east
-mesopotamia	near east
-middle east	near east
-israel	near east
-canaanite	near east
-crusader	near east
-egyptian	egyptian
-pharao	egyptian
-ptolemaic	egyptian
-viking	viking
-saxon	viking
-norse	viking
-nordic	viking
-china	chinese
-chinese	chinese
-renaissance	renaissance
-baroque	renaissance
-italian	renaissance
-japan	japanese
-japanese	japanese
-khazar	turkish
-kazar	turkish
-turkish	turkish
+egyptian	EGYPTIAN
+pharao	EGYPTIAN
+roman	ROMAN
+ROMAN	ROMAN
+INDO-SCYTHIAN	CENTRAL ASIA
+ptolemaic	EGYPTIAN
+pharaoh	EGYPTIAN
+flask	VESSEL
+bowl	VESSEL
+cup	VESSEL
+vase	VESSEL
+pitcher	VESSEL
+lantern	VESSEL
+vessel	VESSEL
+pot	VESSEL
+plate	VESSEL
+pot	VESSEL
+flagon	VESSEL
+STATUEtte	STATUE
 
+?	0
+none	0
+run	0
+chisel	0
 
+terracotta	TERRACOTTA
+clay	TERRACOTTA
+metal	METAL
+bronze	METAL
+silver	METAL
+gold	METAL
+led	METAL
+tin	METAL
+iron	METAL
+copper	METAL
+glass	GLASS
+glazed	GLASS
 
+vitrified	GLASS
+faience	TERRACOTTA
+	
+viking	VIKING
+saxon	VIKING
+china	CHINESE
+chinese	CHINESE
+	
+tetradrachm	COIN
+renaissance	RENAISSANCE
+japan	JAPANESE
+japanese	JAPANESE
+khazar	TURKISH
+kazar	TURKISH
+baroque	RENAISSANCE
+italian	RENAISSANCE
+Sold	0 
+Nov	0
+19	0
+2018	0
+20	0
+Ancient	0
+Egyptian	EGYPTIAN
+Stone	0
+Beads	JEWELLERY
+Egypt	EGYPTIAN
+VERY	0
+RARE!	0
+TOP	0
+!!	0
 
-             
+ROMAN	ROMAN
+TERRACOTTA	0
+POT	VESSEL
+RARE	0
+ANCIENT	0	
+ARTIFACT	0 
+(2)	0
+
+Sold	0
+Oct	0
+21	0
+2018	0
+amazing	0
+Egyptian	EGYPTIAN
+faience cat	STATUE
+standing	0
+position	0
+
+Sold	0
+Jan	0
+12	0
+2019	0
+THE	0
+VIKING	VIKING
+BRONZE	0
+COLOR	0
+Tobacco Pipe	HOUSEHOLD
+museum	0
+quality	0
+artifact	0
+VERY	0
+Stunning	0
+
+Sold	0
+Nov	0
+4	0
+2018	0
+1	0
+Ancient	0
+Roman	ROMAN
+Red Jasper	0
+Bead	JEWELLERY
+Romans	ROMANS
+VERY	0
+RARE!	0
+TOP!	0
+
+Sold	0
+Nov	0
+21	0
+2018	0
+10	0
+RARE	0
+Ancient	0
+Roman	ROMAN
+Clear	0
+Glass	0
+Beads	JEWELLERY
+2000+	0
+Years	0
+Old!	0
+Authentic	0
+Artifact	0
+Lot	0
+
+Sold	0
+Dec	0
+9	0
+2018	0
+Mixed	0
+Artifact	0
+Lot	0
+Roman	ROMAN
+Medieval	MEDIEVAL
+etc.	0
+
+Sold	0
+Dec	0
+4	0
+2018	0
+Rare	0
+Roman	ROMAN
+Lock	0
+Mechanism	0
+
+Sold	0 
+Dec	0
+12	0
+2018	0
+rare	0
+Ancient	0
+antique	0
+Bronze	0
+viking	VIKING
+Candlestick	HOUSEHOLD
+artifact	0
+beautiful	0
+authentic	0
+
+Sold	0
+Nov	0
+30	0
+2018	0
+VIKINGS	VIKINGS
+STEEL	0
+WATCH	0
+NEW	0
+2018	0
+(RARE)	0
+
+Sold	0
+Nov	0
+13	0
+2018	0
+Very	0
+Beautiful	0
+Persian	NEAR EAST
+Nisha-puri	0
+Lovely	0
+Turquoise	0
+Stone	0
+Persain	0
+Turquoise	0
+#	0
+
+Sold	0
+Dec	0
+16	0
+2018	0
+BRITISH	0
+DETECTOR	0
+FINDS	0
+PAIR	0
+OF	0
+TWO	0
+ANCIENT	0
+VIKING	VIKING
+BRONZE	9
+APPLIQUES	0
+W/DRAGON	0
+HEAD	0
+
+Sold	0
+Nov	0
+17	0
+2018	0
+Ancient	0
+Roman	ROMAN
+Fire Starter	TOOL
+Metal	0
+Detector	0
+Found	0
+circa	0
+100 AD	0
+	
+BC	0
+Sold	0
+Nov	0
+Oct	0
+
+turkish	TURKISH
+cambodia	CAMBODIAN
+khmer	CAMBODIAN
+thailand	THAI
+thai	THAI
+
+axe	WEAPON
+sword	WEAPON
+aroowhead	WEAPON
+battle ax	WEAPON
+arrow	WEAPON
+chariot fitting	WEAPON
+point	WEAPON
+bow	WEAPON
+mace	WEAPON
+vessel	VESSEL	
+pottery	VESSEL
+coffee pot	VESSEL
+norse	VIKING
+nordic	VIKING
+
+surma dani	VESSEL
+soorma dani	VESSEL
+skyphos	VESSEL
+dagger	WEAPON
+projectile	WEAPON
+shield	WEAPON
+sabre	WEAPON
+helmet	WEAPON
+arrowhead	WEAPON
+
+rhyton	VESSEL
+unguentarium	VESSEL	
+chalice	VESSEL
+urn	VESSEL
+teapot	VESSEL
+surma-dani	VESSEL
+arowhead	WEAPON
+dager	WEAPON
+sling	WEAPON
+spear	WEAPON
+military standard	WEAPON
+knife	WEAPON
+knives	WEAPON
+Jan	0
+
+ware	VESSEL
+cosmetic	VESSEL
+pitcher	VESSEL
+lamp	VESSEL
+kettle	VESSEL
+jar	VESSEL
+cup	VESSEL
+statue	STATUE
+bust	STATUE
+idol	STATUE
+figure	STATUE
+engraving	STATUE	
+bust	STATUE
+head fragment	STATUE
+10	0
+fragment	0
+lot	0
+8-11	0
+VIKING	VIKING
+
+beaker	VESSEL
+jug	VESSEL
+flaggon	VESSEL
+bottle	VESSEL
+stone carving	STATUE
+STATUEte	STATUE
+figurine	STATUE
+plaque	STATUE	
+shabti	STATUE
+phallus	STATUE
+
+jewellery	JEWELLERY
+ring	JEWELLERY
+band	JEWELLERY
+bangle	JEWELLERY
+pendent	JEWELLERY
+necklace	JEWELLERY
+stone head	JEWELLERY
+glass fish	JEWELLERY
+ear plug	JEWELLERY
+disc	JEWELLERY
+disk	JEWELLERY
+text	TEXT
+tablet	TEXT
+inscription	TEXT
+writing	TEXT
+graffiti	TEXT
+inscribed	TEXT
+book	TEXT
+stylus	TOOL
+
+inlay	JEWELLERY
+ornament	JEWELLERY
+medallion	JEWELLERY
+bead	JEWELLERY
+earring	JEWELLERY
+earing	JEWELLERY
+amulet	JEWELLERY
+scarab	JEWELLERY
+scrab	JEWELLERY
+pendant	JEWELLERY
+seal	JEWELLERY
+signet	JEWELLERY
+bracelet	JEWELLERY
+amuelt	JEWELLERY
+jewelry	JEWELLERY
+manuscript	TEXT
+foundation cone	TEXT
+hieroglyphics	TEXT
+hieroglyphs	TEXT
+calligraphy	TEXT
+
+clothing	CLOTHING
+brooch	CLOTHING
+broach	CLOTHING
+pin	CLOTHING
+sock	CLOTHING
+household	HOUSEHOLD
+smoking pipe	HOUSEHOLD
+brick	HOUSEHOLD
+strapend HOUSEHOLD
+strap end	HOUSEHOLD
+fire striker	TOOL
+headrest	HOUSEHOLD
+furniture	HOUSEHOLD
+key	HOUSEHOLD
+
+fibula	CLOTHING
+shoe	CLOTHING
+gilt mount	CLOTHING
+cloth	CLOTHING
+shoe	CLOTHING
+buckle	CLOTHING
+button	CLOTHING
+belt	CLOTHING
+dice	HOUSEHOLD
+altar	HOUSEHOLD
+spoon	HOUSEHOLD
+cigarette holder	HOUSEHOLD
+gaming	HOUSEHOLD
+nail	HOUSEHOLD
+box	HOUSEHOLD
+mosaic	HOUSEHOLD
+mirror	HOUSEHOLD
+triptych	HOUSEHOLD
+
+coin	COIN
+money	COIN
+religious	RELIGIOUS
+cross	RELIGIOUS
+crucifix	RELIGIOUS
+qoran	RELIGIOUS
+quran	RELIGIOUS
+deity	RELIGIOUS
+denarius	COIN
+stater	COIN
+follis	COIN
+sceat	COIN
+sceatta	COIN
+koran	RELIGIOUS
+holy	RELIGIOUS
+orthodox	RELIGIOUS
+buddha	RELIGIOUS
+hindu	RELIGIOUS
+
+sekhmet	RELIGIOUS
+sakhmet	RELIGIOUS
+sakhet	RELIGIOUS
+baptism	RELIGIOUS
+votive	RELIGIOUS
+hook	TOOL
+hammer	TOOL
+knife	TOOL
+knives	TOOL
+chisel	TOOL
+needle	TOOL
+lithic	TOOL
+obsidian	TOOL
+chisle	TOOL
+spindle	TOOL
+
+whistle	TOOL
+pestle	TOOL
+comb	TOOL
+mortar	TOOL
+weight	TOOL
+medical	TOOL
+strap fitting	TOOL
+wheel	TOOL
+celt	CELT
+seltic	CELT
+tool	TOOL
+scale	TOOL
+razor	TOOL
+spur	TOOL
+sickle	TOOL
+awl	TOOL
+quern	TOOL
+walking stick	TOOL
+adze	TOOL
+stamp	TOOL
+
+egytpian	EGYPTIAN
+egypt	EGYPTIAN
+scythian	CENTRAL ASIA
+sythian	CENTRAL ASIA
+afghan	CENTRAL ASIA
+central asia	CENTRAL ASIA
+bactrian	CENTRAL ASIA
+
+america	AMERICAN
+columbian	AMERICAN
+maya	AMERICAN
+aztec	AMERICAN
+khanate	ISLAMIC
+koran	ISLAMIC
+andalus	ISLAMIC
+qajar	ISLAMIC
+quran	ISLAMIC
+khazar	ISLAMIC
+sulimani	ISLAMIC
+native american	AMERICAN
+pre columbian	AMERICAN
+mexico	AMERICAN
+pre-columbian	AMERICAN
+indian	INDIAN
+
+islamic	ISLAMIC
+yemen	ISLAMIC
+ottoman	ISLAMIC
+buddhist	BUDDHIST
+bamiyan	BUDDHIST
+
+byzantine	GREEK
+mycenaea	GREEK
+nmacedonia	GREEK
+roman	ROMAN
+rome	ROMAN
+greek	GREEK
+cypriot	GREEK
+athena	GREEK
+greco	GREEK
+
+russian	RUSSIAN
+russiam	RUSSIAN
+indus	INDUS
+indo	INDUS
+gandhara	INDUS
+
+pre-historic	PRE-HISTORIC
+neolithic	PRE-HISTORIC
+pre historic	PRE-HISTORIC
+stone age	PRE-HISTORIC
+yamani	NEAR EAST
+yemani	NEAR EAST
+near east	NEAR EAST
+persian	NEAR EAST
+judaea	NEAR EAST
+holy land	NEAR EAST
+phoenician	NEAR EAST
+mesopotamia	NEAR EAST
+middle east	NEAR EAST
+
+mesolithic	PRE-HISTORIC
+chalcolithic	PRE-HISTORIC
+paleolithic	PRE-HISTORIC
+palaeolithic	PRE-HISTORIC
+arabic	NEAR EAST
+israel	NEAR EAST
+canaanite	NEAR EAST
+crusader	NEAR EAST
+
+painting	PAINTING
+paint	PAINTING
+portrait	PORTRAIT
+
+Sold 	0
+Jan	0
+10	0
+2019	0
+Very	0
+Rare	0
+Roman	ROMAN	
+bronze	0
+OpenWork	0
+application	0
+depicting	0
+dog	0
+chasing	0
+
+50	0 
+Ancient	0
+Roman	0
+Glass	0
+Clay	0
+Beads	JEWELLERY
+Romans	ROMAN
+viking	VIKING
+large	0
+
+bell	0
+sea	0
+shell	JEWELLERY
+
+phoenician	NEAR EAST
+wonderous	0
+old	0
+gigantic	0
+glass	0
+bead	JEWELLERY
+
+roman	ROMAN
+carnelian	0
+beads	JEWELLERY
+
+very	0
+old	0
+amazing	0
+Egyptian	EGYPTIAN
+faience	TERRACOTTA
+animal	0  
+amuelt	JEWELLERY
+
+horse Strap	TOOL
+fitting	TOOL
+viking	VIKING
+decorated	0 
+glass	0
+beads	JEWELLERY
+
+Sold	0
+Nov	0
+10	0
+2018	0
+IMAZING	0
+ANCIENT	0
+LEAD	0
+GREEK	GREEK
+SLING	WEAPON
+SHOT	0
+BULLET	WEAPON
+335	0
+GR.32	0
+MM	0
+
+Authentic	0
+Set	0
+of	0
+4	0
+Pre Columbian	AMERICAN
+Mezcala	AMERICAN
+Green	0
+Stone	0
+beads	JEWELLERY
+Aztec	AMERICAN
+Mayan	AMERICAN
+Olmec	AMERICAN
+
+Ancient	0
+Roman	ROMAN
+Glass	0
+Clay	0
+Beads	JEWELLERY
+Romans	ROMAN
+VERY	0
+RARE!	0
+TOP	0
+!!	0
+Greek	GREEK
+Glass	0
+Beads	JEWELLERY
+Antuque	0
+#1	0
+
+MEDIEVAL	MEDIEVAL
+VIKING	VIKING
+MILITARY	WEAPON
+IRON	0
+D@GGER	WEAPON
+W/	0
+HANDLE	0
+L599	0
+
+Very	0 
+Rare	0
+Ancient	0 
+Roman	ROMAN
+IRON	0
+Sheath	WEAPON
+Ends	0
+LOT	0
+Near Eastern	NEAR EAST
+CELT	CELTIC
+BEADS	JEWELLERY
+
+Sold	0
+Jan	0
+10	0
+2019	0
+Ancient	0
+iron	0
+knives	TOOL
+of	0
+Kievan	0
+Rus	0
+Viking	VIKING
+8-11	0
+century	0
+
+Sold	0
+Dec	0
+11	0
+2018	0
+LOVELY	0
+GROUP	0	
+OF	0
+ANCIENT	0 
+VIKING	VIKING 
+DECORATED	0 
+GLASS	0 
+BEADS	JEWELLERY
+
+Sold	0
+Nov	0
+24	0
+2018	0
+RICHLY	0
+DECORATED	0
+VIKING	VIKING
+ERA	0
+Bronz	0
+Fire Starter	TOOL
+INTERESTING	0
+MODEL	0
+
+Sold	0
+Dec	0
+18	0
+2018	0
+LARGE	0
+ANCIENT	0
+EGYPTIAN	EGYPTIAN
+GLAZED	0
+FAIENCE	TERRACOTTA
+FACE	0
+NEAR EASTERN	NEAR EAST
+PHAROAH	EGYPTIAN
+
+Sold	0
+Oct	0
+22	0
+2018	0 
+23.	0
+Roman	ROMAN
+Application	0 
+-Head=>	0 
+
+EGYPTIAN	EGYPTIAN
+Glazed	TERRACOTTA
+Blue	0
+aqua	0
+Faience	TERRACOTTA
+Shabati	STATUE
+
+Sold	0
+Dec	0
+20	0
+2018	0
+1	0
+Ancient	0 
+Roman	ROMAN
+Coral	0
+Bead	JEWELLERY
+Romans	0
+VERY	0
+RARE!	0
+
+Roman	ROMAN
+silver	0
+zoomorphic	0
+military fitting	WEAPON
+papyrus	TEXT
+
+ANTIQUE	0
+INTAGLIO	0
+PHOENIX	0
+GREEK	GREEK
+ROMAN	ROMAN
+AGATE	STONE
+CARNELIAN	STONE
+STONE	STONE
+RARE!!	0
+Gift	0
+
+GROUP	0
+OF	0
+ANCIENT	0
+ROMAN	ROMAN
+LEAD	METAL
+ARTIFACTS	0
+
+RARE	0
+3000	0
+BC	0
+Asian	ASIAN
+Alien	0
+Carving	0
+Stone	STONE
+Age	0
+Neolithic	PRE-HISTORIC
+Ancient	0
+Artifact	0
+Hongshan	0 
+
+Amazing	0
+Egyptian	EGYPTIAN
+faience	TERRACOTTA
+embossed	0
+animal	0
+face	0
+
+CELTIC	CELTIC
+BRONZE	BRONZE
+ZOOMORPHIC	STATUE
+HORSE	0
+ARTIFACT	0
+
+AMAZING	0
+LARGE	0
+ROMAN	ROMAN
+GLASS	GLASS
+FLAGON	VESSLE
+WITH	0
+HANDLE	0
+
+Ancient	0
+Roman	ROMAN
+Bronze	METAL
+Lion	0 
+Decoration	DECORATION
+of	0
+Legionary	0
+Cuiras	WEAPON
+
+Glass	GLASS
+Grand	0
+Tour	0
+intaglio	0
+cameo	0
+roman	ROMAN
+paste	0
+souvenir	0
+james	0
+tassie	0
+Neoclassical	0
+
+Rare	0
+Ancient	0
+Egyptian	EGYPTIAN
+Green	0
+Horus	RELIGIOUS
+
+BRONZE	METAL
+ROMAN	ROMAN
+SQUARE	0
+WITH	0
+GLASS	GLASS
+PASTE	0
+RARE	0
+stylus	TOOL
+
+Ancient	0
+Egyptian Blue	TERRACOTTA
+Cat	0
+2800	0 
+BC	0
+-2750	0
+BC	0 
+
+Rare	0
+Large	0
+Ancient	0
+Egyptian	EGYPTIANISIS
+Nursing	0
+Horus	RELIGIOUS
+
+A	0
+Mixture	0
+Of	0
+Ancient	0
+Islamic	ISLAMIC
+Items	0
+islamic	ISLAMIC
+
+ROMAN	ROMAN
+BRONZE	METAL
+MILITARY	0
+ARMOUR 	WEAPON
+HINGE	0
+CIRCA	0
+200-400	0	
+
+VIKING	VIKING
+Kievan	0
+Rus	0
+ANTIQUE	0
+Fragment	0
+PART	0
+Old	0
+BRONZE	METAL
+Eastern	0
+Europe	0
+45x30x7	0
+mm	0
+
+ROMAN	ROMAN
+TERRACOTTA	TERRACOTTA
+POT	VESSEL
+RARE	0
+ANCIENT	0
+ARTIFACT	0
+
+138-129	0
+BC	0
+Seleucid	NEAR EAST
+Kingdom	0
+Antiochus	NEAR EAST
+VII	0
+Ancient	0
+Greek	GREEK
+Silver	0
+Tetradrachm	COIN
+
+Antique	0
+Copper	METAL
+&	0
+Brass	METAL
+Arabian	NEAR EAST
+Islamic	ISLAMIC
+Turkish	NEAR EAST
+Dallah	VESSEL
+Coffee	0
+or	0
+Tea	0
+Pot	VESSEL
+Bedouin	NEAR EAST
+
+88	0
+mm!	0
+Ancient	0
+Roman	ROMAN
+Sharp	0
+Figural	0
+Hermes	RELIGIOUS
+Hasp	0
+Ex	0
+Donald	0
+Jackson	0
+Collection	0
+
+Moche	AMERICA
+diadem	JEWELLERY
+crown	JEWELLERY
+tumbaga	0
+gold	METAL
+mix	0
+of	0
+gold	METAL
+and	0
+copper	METAL
+
+GREEK	GREEK
+KYLIX	VESSEL
+SILVER	METAL
+REPRODUCTION	0
+(ca.	0
+400	0
+to	0
+300	0
+B.C.	0 
+
+Roman	ROMAN
+Item	0
+
+Nicely	0
+Unique	0
+Egyptian	EGYPTIAN
+faience	TERRACOTTA
+
+ANCIENT	0
+ROMAN	ROMAN
+HORSE	0
+HARNESS	TOOL
+DISTRIBUTORS	0
+
+Silvered	METAL
+Military	0
+Roman	ROMAN
+Mount	TOOL
+
+Ancient	0
+Egyptian	EGYPTIAN
+Black	0
+Anubis	RELIGIOUS
+
+Vintage	0
+Chinese	CHINESE
+Turquoise	0
+Glazed	TERRACOTTA
+Ducks	0
+Open	0
+Beak	0
+Great	0
+Quality	0
+See	0
+Pictures	0
+
+EGYPTIAN	EGYPTIAN
+Glazed	TERRACOTTA
+Blue	0
+aqua	0
+Faience	TERRACOTTA
+Shabati	STATUE
+For	0
+NESTANEBETTAWY	0
+21st	0
+Dynasty	0
+
+5600Y	0
+O	0
+SUPERB	0
+AX	WEAPON
+SCRAPER	TOOL
+PLANE	0
+117	0
+mms	0
+DANISH	0
+STONE AGE	PRE-HISTORIC
+NEOLITHIC	PRE-HISTORIC
+FLINT	STONE
+TRB	0
+
+5600Y.O	0
+GREAT	0
+AX	WEAPON
+TOOL	TOOL
+133mms	0
+DANISH	0
+STONE AGE	PRE-HISTORIC
+NEOLITHIC	PRE-HISTORIC
+RECYCLED	0
+FLINT	STONE
+MEGALITH	PRE-HISTORIC
+TOMB	FEATURE
+
+LOT	0
+OF	0
+2pcs	0
+ANCIENT	0
+ROMAN	ROMAN
+IRON	METAL
+KNIVES	TOOL
+
+Ancient	0
+&	0
+Medieval	MEDIEVAL
+Artifacts	0
+Lot	0
+Antiquities	0
+Metal	METAL
+Detector	0
+Find	0
+European	0
+Viking	VIKING
+
+Lot	0
+of	0
+21	0
+Roman	ROMAN
+legionary	WEAPON
+fitting	TOOL
+
+Antique	0
+old	0
+rare	0
+persian	NEAR EAST
+arabic	NEAR EAST
+islamic	ISLAMIC
+brass	METAL
+astrolabe	TOOL
+vintage	0
+
+Wonderful	0
+Persian	NEAR EAST
+Nishapur	NEAR EAST
+Natural	0
+Turquoise	0
+Stone	STONE
+With	0
+Wild	0
+Loin	0
+Intaglio	JEWELLERY
+
+VERY	0
+RARE	0
+UNCERTAIN	0
+OTTOMAN	NEAR EAST
+APPLIQUE	0
+WITH	0
+RARE	0
+STONES	STONE
+
+Egyptian	0
+blue	0
+faience	TERRACOTTA
+Horus	RELIGIOUS
+the	0
+Child	0
+Harpocrates	RELIGIOUS
+
+A	0
+lantern	0
+engraved	0
+with	0
+the	0
+emblem	0
+of	0
+the	0
+Ottoman	NEAR EAST
+Empire	0
+Of	0
+bronze	METAL
+Old	0
+and	0
+rare	0
+
+VERY	0
+RARE	0
+VINTAGE 0
+HAND	0
+MADE	0
+STONE	STONE
+EGYPTIAN	EGYPTIAN
+NILE	0
+CROCODILE	0
+LARGE	0
+SIZE	0
+
+Uchapetti	STATUE
+Rare	0
+wood	WOOD
+35cm	0
+ancient	0
+Egyptian	0
+civilization	0
+
+Wonderful	0
+Kazak	CENTRAL ASIA
+Sterling	0
+Silver	0
+With	0
+An	0
+Old	0
+And	0
+Rare	0
+Afghan	CENTRAL ASIA
+Brown	0
+Ceramic	TERRACOTTA
+
+ANCIENT	0
+ROMAN	ROMAN
+DECORATED	0
+SALT/PEPPER	0
+POT	VESSEL
+2nd-3rd	0
+Cent	0
+AD	0
+
+OW	0
+OUTBID1$!!	0
+VIKING	VIKING
+AND	0
+BYNZTANTINE	BYZANTINE
+CHROSSES	RELIGIOUS
+AND	0
+MEDALJONGS	METAL
+ARTIFECTS	0
+ 
+Rare	0
+Large	0
+Ancient	0
+Egyptian	EGYPTIAN
+Faience	TERRACOTTA
+Ramses	0
+II	0
+(1279	0
+-	0
+1213	0
+Bce	0
+ 
+MASSIVE	0
+ROMAN	ROMAN
+BRONZE	METAL
+WINGED	0
+PHALLUS	0
+FERTILITY	0
+SYMBOL	DECORATION
+1st CENTURY	0
+BC-AD	0
+
+Authentic	0
+Ancient	0
+Antiquities	0
+MINIATURE	0
+Artifact	0
+GREEK	GREEK
+SNAKE	0
+CHARM	STATUE
+
+ROMAN	ROMAN
+IRON	METAL
+AROWHEAD	WEAPON
+
+Rare	0
+Ancient	0
+Egyptian	EGYPTIAN
+Granite	STONE
+Stone	STONE
+Seated	0
+Queen	0
+Hatshepsut	0
+
+Lot	0
+Roman	ROMAN
+Glass	GLASS
+Patina	0
+Ancient	0
+Fragment	0
+Israel	NEAR EAST
+
+RARE	0
+3	0
+BRONZE	METAL
+ROMAN	0
+BELLS	HOUSEHOLD
+
+ANCIENT	0
+ROMAN	ROMAN
+LEAD	METAL
+ANIMAL	0
+VERY	0
+NICE	0
+AND	0
+INTEREST	0
+
+Rare	0
+Stunning	0
+Ancient	0
+Silver	METAL
+Viking	VIKING
+Two	0
+Dragon	0
+Head	0
+
+FANTASTIC	0
+ROMAN	ROMAN
+BRONZE	METAL
+OPENWORK	DECORATION
+APPLICATION	0
+
+8	0
+MOJAVE	AMERICAN 
+DESERT	0
+LAKE	0
+MANIX	0
+PALEOLITHIC	PRE-HISTORIC
+STONE	STONE
+NEOLITHIC	PRE-HISTORIC
+ARTIFACTS	0
+COLLECTION	0
+
+BRITISH	0
+FOUND	0
+ANCIENT	0
+ROMAN	ROMAN
+MILITARY	0
+STRAP	TOOL
+JUNCTION	0
+
+EGYPTIAN	EGYPTIAN
+ANTIQUES	0
+ANTIQUITIES	0
+Seated	0
+Cat	0
+Bastet	RELIGIOUS
+Ubaste	RELIGIOUS
+2290–2670	0
+BCE	0
+
+336-323	0
+BC	0
+Alexander	0
+III	0
+the	0
+Great	0
+Ancient	0
+Greek	GREEK
+Silver	METAL
+Tetradrachm	COIN
+
+10	0
+SAHARA	0
+NEOLITHIC	PRE-HISTORIC
+EAR NOSE	0
+AND	0
+GAME	HOUSEHOLD
+PIECES	0
+
+Very	0
+good	0
+iron	METAL
+tips	WEAPON
+Vikings	VIKINGS
+
+Ancient	0
+Roman	ROMAN
+bronze	METAL
+item	0
+with	0
+solar	0
+symbol	DECORATION
+
+VERY	0
+RARE	0
+ANCIENT	0
+ROMAN	ROMAN
+BRONZE	0
+FINGERLINGS	0
+WITH	0
+PANTHER	0
+
+Saharian	AFRICA
+NEOLITHIC	PRE-HISTORIC
+Quartzite	STONE
+HAND STONE	TOOL
+
+Ancient	0
+Greek	GREEK
+Bronze	METAL
+Artifacts	0
+Indefinite	0
+L= 12	0
+mmmm	0
+Quality	0
+Rare	0
+
+Roman	ROMAN
+wand	HOUSEHOLD
+for	0
+voting	0
+Roman	ROMAN
+artefact	0
+
+antik	0
+Ottoman	NEAR EAST
+docoments	TEXT
+eraund	0
+1900	0
+
+amazing	0
+Egyptian	EGYPTIAN
+faience	TERRACOTTA
+cat	0
+standing	0
+position	0
+
+Roman	ROMAN
+Empire	0
+Silver	METAL
+plated	0
+Token	COIN
+to	0
+visit	0
+a	0
+public	0
+Brothel	0
+
+Ancient	0
+bronze	METAL
+jewelery	JEWELLERY
+temporal	0
+Vikings	VIKING
+
+Ancient	0
+Bronze	METAL
+Zoomorphic	0
+Mount	TOOL
+Roman	ROMAN
+
+2	0
+Sahara	0
+Neolithic	PRE-HISTORIC
+Colorful	0
+Serrated	0
+Blade	TOOL
+
+BRONZE	METAL
+ROMAN	ROMAN
+SQUARE	0
+WITH	0
+GLASS	GLASS
+PASTE	0
+RARE	0
+
+Ancient	0
+Egyptian	EGYPTIAN
+Blue Cat	TERRACOTTA
+2800	0
+BC	0
+2750	0
+BC	0
+
+STUNNING	0
+ANCIENT	0
+SILVER	METAL
+VIKING	0
+HARD	0
+VERY	0
+RARE	0
+
+Ancient	0
+Fantastic	0
+Roman	ROMAN
+Bronze	METAL
+Stylus	TOOL
+
+women's	0
+decorations	DECORATION
+of	0
+the	0
+Greek	GREEK
+Age	0
+
+Sold	0
+Mar	0
+3	0
+2019	0
+Rare	0
+Ancient	0
+Silver	METAL
+Viking	0
+Thors	RELIGIOUS
+Hammer Amulet	JEWELLERY
+Pendant	JEWELLERY
+
+LOT	0
+OF	0
+5	0
+ANCIENT	0
+ROMAN	ROMAN
+BRONZE	METAL
+HORSE HARNESS MOUNT	TOOL
+DECORATIONS	DECORATION
+
+Rare	0
+ancient	0
+solid	0
+silver	METAL
+Roman	ROMAN
+dice	HOUSEHOLD
+
+WONDERFUL	0
+OLD	0
+ROMAN	ROMAN
+INTAGLIO	0
+OLD	0 
+LAPIZ	JEWELLERY
+LAZULI	JEWELLERY
+STONE	STONE
+LOVELY	0
+EMPEROR	0
+COMEO	ROMAN
+
+VINTAGE	0
+VIKING	VIKING
+DRAGON	0
+SHIP	0
+MODE	0
+LONGBOAT	0
+NORSEMEN	0
+NORSE	VIKING
+NAUTICAL	0
+
+Ancient	0
+Viking	VIKING
+Norse	VIKING
+SILVER	METAL
+Hammer	0
+Thor's axe	WEAPON
+Amulet	JEWELLERY
+Pendant	JEWELLERY
+Museum	0
+Quality	0
+
+Ancient	0
+Roman	ROMAN 
+Bronze	METAL
+Ring	JEWELLERY
+Original	0
+Authentic	0
+Antique	0
+Rare	0
+
+STUNNING	0
+TOP	0
+QUALITY	0
+POST	0
+MEDIEVAL	MEDIEVAL
+RING	JEWELLERY
+
+Lot	0
+of	0
+6	0
+Ancient	0
+Roman	ROMAN
+Bronze	METAL
+Coins	COIN 
+circa	0
+
+Natural	0
+Persian	NEAR EAST
+Islamic	ISLAMIC
+Evil eye	0
+Banded	0
+Carnelian	STONE
+ring	JEWELLERY
+ring	JEWELLERY
+
+Russian	0
+Turkish	NEAR EAST
+islamic	ISLAMIC
+antique	0
+sword	WEAPON
+shamshir	0
+
+1	0
+Ancient	0
+Neolithic	PRE-HISTORIC
+Red Jasper	STONE
+Bead	JEWELLERY
+
+BEAUTIFUL	0
+ANCIENT	0
+EGYPTIAN	EGYPTIAN
+BRONZE	METAL
+THOTH	RELIGIOUS
+STATUETTE	STATUE
+
+Sold	0
+Jan	0
+19	0
+2019	0
+EGYPTIAN	EGYPTIAN
+HIEROGLYPHIC	TEXT
+SHABTI	STATUE
+LATE	0
+PERIOD	0
+664	0 
+-	0
+332	0
+BC	0 
+
+Rare	0
+ancient	0
+Near Eastern	NEAR EASTERN
+bronze/brass	METAL
+cylinder	0
+seal	JEWELLERY
+pendant	JEWELLERY
+
+Sold	0
+Saharian	AFRICA
+NEOLITHIC	PRE-HISTORIC
+Granodiorite	STONE
+AXE	WEAPON
+
+Old	0
+Rare	0
+Islamic	ISLAMIC
+Antique	0
+Ottoman	NEAR EAST
+Turkish	NEAR EAST
+Yelek	0
+Waistcoat	CLOTHING
+Hand Embroidered	0
+
+MUSEUM	0
+QUALITY	0
+ROMAN	ROMAN
+BRONZE	METAL
+MALE FACE	MASK
+ORNAMENT	DECORATION
+APPLIQUE	0
+CIRCA	0
+200-400	0
+AD	0
+
+MEDIEVAL	MEDIEVAL
+BRACELET	JEWELLERY 
+RICHLY DECORATED	0
+WEARABLE	0
+LOW	0
+SAMPLE	0
+OF	0
+SILVER	METAL
+
+Sold	0
+Jan 4, 2019	0 
+Circa	0
+1000-500	0
+BC	0
+Egyptian	EGYPTIAN
+Colored	0
+Faience	TERRACOTTA
+Shabti	STATUE
+Statue	STATUE
+
+Sold	0
+Dec	0
+8	0
+2018	0
+RARE	0
+LOT	0
+ANCIENT	0
+IRON	METAL
+FIRE STARTERS	TOOL
+
+Sold	0
+Dec 30	0,
+2018	0
+OUT	0
+OF	0
+Jerusalem	NEAR EAST
+Israel	NEAR EAST
+ROMAN	ROMAN
+Iron	METAL
+SPEAR	WEAPON 
+
+Superb	0
+Middle Eastern	NEAR EASTERN
+Sassanian	NEAR EASTERN
+square	0
+crystal	STONE
+seal	JEWELLERY
+pendant	JEWELLERY
+
+VERY	0
+TALL	0 
+BEAUTIFUL	0
+ANCIENT	0
+EGYPTIAN	EGYPTIAN
+ANUBIS	RELIGIOUS
+STATUETTE	STATUE
+
+VERY	0
+RARE	0
+ANCIENT	0
+EGYPTIAN	0
+GLAZED	0
+WOODEN	WOOD
+PANEL	0
+WITH	0
+PAINTED SCENE	PAINTING
+
+LARGE	0
+IMPRESSIVE	0
+ANCIENT	0
+EGYPTIAN	EGYPTIAN
+STONE	STONE
+STATUE	STATUE
+OF	0
+PHAROAH	EGYPTIAN
+
+Ancient	0
+Celtic	CELTIC
+bronze	METAL
+early	0
+fibula	CLOTHING
+
+Roman	ROMAN
+iron	METAL
+stylus	TOOL
+
+Bronze	METAL
+Roman	ROMAN
+Dog	0
+
+Greek	GREEK
+Olpe	VESSEL
+black-glazed	TERRACOTTA
+terracotta	TERRACOTTA
+
+ANCIENT	0
+SYRO-HITTITE	NEAR EAST
+TERRACOTTA	TERRACOTTA
+â–	0
+PREGNANT	0
+FERTILITY	0
+FIGURINE	STATUE
+â–	0
+3000	0
+YRS	0
+
+lorica	WEAPON
+armour	WEAPON
+arow	WEAPON
+INDO-SCYTHIAN	CENTRAL ASIA
+HITTITE	NEAR EAST
+HARNESS MOUNT	TOOL

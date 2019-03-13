@@ -1,9 +1,9 @@
 # location of the training file
-trainFile = ../data/namedEntityEmpty.csv
+trainFile = ../NERProject/data/namedEntity.csv
 # location where you would like to save (serialize) your
 # classifier; adding .gz at the end automatically gzips the file,
 # making it smaller, and faster to load
-serializeTo = ner-model.ser.gz
+serializeTo = ../NERProject/data/ner-model.ser.gz
 # structure of your training file; this tells the classifier that
 # the word is in column 0 and the correct answer is in column 1
 map = word=0,answer=1
@@ -20,7 +20,8 @@ useWord=true
 # and suffixes only
 useNGrams=true
 noMidNGrams=true
-maxNGramLeng=6
+maxNGramLeng=10
+maxLength=3
 usePrev=true
 useNext=true
 useDisjunctive=true
